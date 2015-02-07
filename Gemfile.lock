@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    fast-stemmer (1.0.2)
+    kmeans-clusterer (0.5.3)
+      narray (~> 0.6)
+    narray (0.6.1.1)
+    stopwords-filter (0.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fast-stemmer
+  kmeans-clusterer (= 0.5.3)
+  stopwords-filter
